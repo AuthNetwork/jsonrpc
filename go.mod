@@ -1,6 +1,6 @@
 module github.com/osamingo/jsonrpc/v2
 
-go 1.15
+go 1.18
 
 require (
 	github.com/alecthomas/jsonschema v0.0.0-20201129101101-7b852d451add
